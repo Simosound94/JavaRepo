@@ -1,0 +1,5 @@
+TODO: completare l'esempio introducendo una
+HashMap<ipaddress, List<PrintResponse>> Hashmap delle liste
+di risposte per ogni client (identificato da ipaddress)
+
+e un Thread PrintResponseNotifier

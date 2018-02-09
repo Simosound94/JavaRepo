@@ -1,0 +1,65 @@
+ 
+	 /*
+	 GestoreFile[] ris = new GestoreFile[K];
+	 for(int i=0;i<K;i++)
+		 ris[i] = new GestoreFile(file.getDictionary());
+	 Iterator<Documento> itOk, itSpam;
+	 int okFileBlock, spamFileBlock;
+	 int[][] missingFile = new int[K][2];
+	 //Iteratori dei file esistenti
+	 itOk = file.getIterator(Documento.cat.Ok);
+	 itSpam = file.getIterator(Documento.cat.Spam);
+	 // Ok/Spam file che devono essere presenti ogni blocco
+	 okFileBlock = file.getNfileCategory(Documento.cat.Ok);
+	 spamFileBlock = file.getNfileCategory(Documento.cat.Spam);
+	 okFileBlock = (int) Math.floor(okFileBlock/ K);
+	 spamFileBlock = (int) Math.floor(spamFileBlock/ K);
+	 if(okFileBlock==0 && spamFileBlock==0){
+		 //K troppo grande
+		 return null;
+	 }
+	 for(int i = 0; i<K;i++){
+		 missingFile[i][0]=okFileBlock;
+		 missingFile[i][1]=spamFileBlock;
+	 }
+	 // Ok/Spam file totali da inserire
+	 okFileBlock *=K;
+	 spamFileBlock *=K;
+	 int index;
+	 Random blockIndex = new Random();
+	 //Inserisco i file ok in un gestore a caso
+	 int step;
+	 while(okFileBlock>0){
+		index = blockIndex.nextInt(K);
+		//Scegli un indice e cerca in tutti i successivi o i precendenti
+		//fino a che non aggiungi il file in qualche gestore
+		//Se sono tutti pieni riprova con un altro indice
+		if(index>K/2)	step = -1;
+		else			step = 1;
+		while(index>= 0 && index<K){
+			if(missingFile[index][0]>0){
+				missingFile[index][0]--;
+				ris[index].insertFile(itOk.next());
+				okFileBlock--;
+				break;
+			}
+			else index+=step;
+		}		
+	 }
+	 //Inserisco file spam in gestore a caso
+	 while(spamFileBlock>0){
+			index = blockIndex.nextInt(K);
+			if(index>K/2)	step = -1;
+			else			step = 1;
+			while(index>= 0 && index<K){
+				if(missingFile[index][1]>0){
+					missingFile[index][1]--;
+					ris[index].insertFile(itSpam.next());
+					spamFileBlock--;
+					break;
+				}
+				else index+=step;
+			}	
+		 }
+	 return ris;
+	 */

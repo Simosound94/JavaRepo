@@ -1,0 +1,4 @@
+/home/simone/Scrivania/Files/dictionary.txt
+/home/simone/Scrivania/Files/fileOk_ 1 50
+/home/simone/Scrivania/Files/fileSpam_ 1 50
+/home/simone/Scrivania/Files/fileToAnalyze_ 1 30

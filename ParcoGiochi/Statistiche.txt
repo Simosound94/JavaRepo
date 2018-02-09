@@ -1,0 +1,767 @@
+
+ Number of person: 100
+ Number of game: 9
+ Number of try each time: 3
+ Total Simulation Time: 82
+
+ ------GIOSTRE------- 
+
+
+ Giostra 1
+Divertimento medio: 8
+Durata:12
+Numero posti: 27
+Numero clienti: 71
+
+ Giostra 2
+Divertimento medio: 7
+Durata:8
+Numero posti: 10
+Numero clienti: 54
+
+ Giostra 3
+Divertimento medio: 6
+Durata:8
+Numero posti: 50
+Numero clienti: 48
+
+ Giostra 4
+Divertimento medio: 1
+Durata:10
+Numero posti: 11
+Numero clienti: 50
+
+ Giostra 5
+Divertimento medio: 8
+Durata:21
+Numero posti: 9
+Numero clienti: 33
+
+ Giostra 6
+Divertimento medio: 8
+Durata:3
+Numero posti: 13
+Numero clienti: 54
+
+ Giostra 7
+Divertimento medio: 6
+Durata:9
+Numero posti: 35
+Numero clienti: 59
+
+ Giostra 8
+Divertimento medio: 7
+Durata:7
+Numero posti: 15
+Numero clienti: 64
+
+ Giostra 9
+Divertimento medio: 5
+Durata:8
+Numero posti: 15
+Numero clienti: 58
+
+ 
+ 
+ ------PERSONE------- 
+
+
+ Persona 1
+Tempo di gioco: 20
+Tempo di attesa: 1
+Tempo totale: 21
+Divertimento: 77.57960578125572
+Divertimento/TempoTot : 3.694266941964558
+
+ Persona 2
+Tempo di gioco: 21
+Tempo di attesa: 0
+Tempo totale: 21
+Divertimento: 177.56917655283775
+Divertimento/TempoTot : 8.455675073944654
+
+ Persona 3
+Tempo di gioco: 21
+Tempo di attesa: 0
+Tempo totale: 21
+Divertimento: 85.41501567389838
+Divertimento/TempoTot : 4.067381698757066
+
+ Persona 4
+Tempo di gioco: 21
+Tempo di attesa: 0
+Tempo totale: 21
+Divertimento: 135.88335375835865
+Divertimento/TempoTot : 6.4706358932551735
+
+ Persona 5
+Tempo di gioco: 21
+Tempo di attesa: 0
+Tempo totale: 21
+Divertimento: 146.77813089486528
+Divertimento/TempoTot : 6.989434804517394
+
+ Persona 6
+Tempo di gioco: 20
+Tempo di attesa: 1
+Tempo totale: 21
+Divertimento: 152.69377105724885
+Divertimento/TempoTot : 7.271131955107088
+
+ Persona 7
+Tempo di gioco: 22
+Tempo di attesa: 0
+Tempo totale: 22
+Divertimento: 116.05168925421506
+Divertimento/TempoTot : 5.275076784282503
+
+ Persona 8
+Tempo di gioco: 22
+Tempo di attesa: 0
+Tempo totale: 22
+Divertimento: 115.35035705997775
+Divertimento/TempoTot : 5.243198048180807
+
+ Persona 9
+Tempo di gioco: 22
+Tempo di attesa: 0
+Tempo totale: 22
+Divertimento: 194.7828922684448
+Divertimento/TempoTot : 8.853767830383855
+
+ Persona 10
+Tempo di gioco: 22
+Tempo di attesa: 0
+Tempo totale: 22
+Divertimento: 82.42560181090735
+Divertimento/TempoTot : 3.7466182641321524
+
+ Persona 11
+Tempo di gioco: 22
+Tempo di attesa: 0
+Tempo totale: 22
+Divertimento: 175.51318066094697
+Divertimento/TempoTot : 7.977871848224862
+
+ Persona 12
+Tempo di gioco: 23
+Tempo di attesa: 0
+Tempo totale: 23
+Divertimento: 104.32972001193916
+Divertimento/TempoTot : 4.5360747831277894
+
+ Persona 13
+Tempo di gioco: 23
+Tempo di attesa: 0
+Tempo totale: 23
+Divertimento: 206.7103288788717
+Divertimento/TempoTot : 8.987405603429204
+
+ Persona 14
+Tempo di gioco: 23
+Tempo di attesa: 0
+Tempo totale: 23
+Divertimento: 105.38945752005034
+Divertimento/TempoTot : 4.58215032695871
+
+ Persona 15
+Tempo di gioco: 24
+Tempo di attesa: 0
+Tempo totale: 24
+Divertimento: 100.76416140863788
+Divertimento/TempoTot : 4.198506725359912
+
+ Persona 16
+Tempo di gioco: 24
+Tempo di attesa: 0
+Tempo totale: 24
+Divertimento: 144.4813333890582
+Divertimento/TempoTot : 6.020055557877424
+
+ Persona 17
+Tempo di gioco: 24
+Tempo di attesa: 0
+Tempo totale: 24
+Divertimento: 170.35271972877322
+Divertimento/TempoTot : 7.098029988698884
+
+ Persona 18
+Tempo di gioco: 25
+Tempo di attesa: 0
+Tempo totale: 25
+Divertimento: 201.64674189241117
+Divertimento/TempoTot : 8.065869675696447
+
+ Persona 19
+Tempo di gioco: 25
+Tempo di attesa: 0
+Tempo totale: 25
+Divertimento: 188.935440770076
+Divertimento/TempoTot : 7.557417630803041
+
+ Persona 20
+Tempo di gioco: 26
+Tempo di attesa: 0
+Tempo totale: 26
+Divertimento: 104.64802851765808
+Divertimento/TempoTot : 4.02492417375608
+
+ Persona 21
+Tempo di gioco: 27
+Tempo di attesa: 0
+Tempo totale: 27
+Divertimento: 121.41983342280096
+Divertimento/TempoTot : 4.497030867511147
+
+ Persona 22
+Tempo di gioco: 27
+Tempo di attesa: 0
+Tempo totale: 27
+Divertimento: 211.67595544943015
+Divertimento/TempoTot : 7.839850201830746
+
+ Persona 23
+Tempo di gioco: 26
+Tempo di attesa: 1
+Tempo totale: 27
+Divertimento: 127.59990556440975
+Divertimento/TempoTot : 4.725922428311472
+
+ Persona 24
+Tempo di gioco: 27
+Tempo di attesa: 0
+Tempo totale: 27
+Divertimento: 232.06842236946366
+Divertimento/TempoTot : 8.59512675442458
+
+ Persona 25
+Tempo di gioco: 29
+Tempo di attesa: 0
+Tempo totale: 29
+Divertimento: 102.58761513651646
+Divertimento/TempoTot : 3.5375039702247055
+
+ Persona 26
+Tempo di gioco: 29
+Tempo di attesa: 0
+Tempo totale: 29
+Divertimento: 204.69797526435633
+Divertimento/TempoTot : 7.058550871184701
+
+ Persona 27
+Tempo di gioco: 29
+Tempo di attesa: 0
+Tempo totale: 29
+Divertimento: 225.8844830309282
+Divertimento/TempoTot : 7.789120104514766
+
+ Persona 28
+Tempo di gioco: 29
+Tempo di attesa: 1
+Tempo totale: 30
+Divertimento: 152.2586835219225
+Divertimento/TempoTot : 5.07528945073075
+
+ Persona 29
+Tempo di gioco: 30
+Tempo di attesa: 0
+Tempo totale: 30
+Divertimento: 265.3576959241691
+Divertimento/TempoTot : 8.845256530805637
+
+ Persona 30
+Tempo di gioco: 30
+Tempo di attesa: 0
+Tempo totale: 30
+Divertimento: 204.73237577772585
+Divertimento/TempoTot : 6.824412525924195
+
+ Persona 31
+Tempo di gioco: 30
+Tempo di attesa: 0
+Tempo totale: 30
+Divertimento: 158.25891743190803
+Divertimento/TempoTot : 5.2752972477302675
+
+ Persona 32
+Tempo di gioco: 30
+Tempo di attesa: 0
+Tempo totale: 30
+Divertimento: 118.44143343915877
+Divertimento/TempoTot : 3.9480477813052923
+
+ Persona 33
+Tempo di gioco: 31
+Tempo di attesa: 0
+Tempo totale: 31
+Divertimento: 240.9910451009198
+Divertimento/TempoTot : 7.773904680674832
+
+ Persona 34
+Tempo di gioco: 30
+Tempo di attesa: 1
+Tempo totale: 31
+Divertimento: 195.78997741352927
+Divertimento/TempoTot : 6.315805723017073
+
+ Persona 35
+Tempo di gioco: 32
+Tempo di attesa: 0
+Tempo totale: 32
+Divertimento: 251.32020985726012
+Divertimento/TempoTot : 7.853756558039379
+
+ Persona 36
+Tempo di gioco: 32
+Tempo di attesa: 0
+Tempo totale: 32
+Divertimento: 153.6088882196167
+Divertimento/TempoTot : 4.8002777568630215
+
+ Persona 37
+Tempo di gioco: 33
+Tempo di attesa: 0
+Tempo totale: 33
+Divertimento: 238.09990880580796
+Divertimento/TempoTot : 7.21514875169115
+
+ Persona 38
+Tempo di gioco: 33
+Tempo di attesa: 0
+Tempo totale: 33
+Divertimento: 128.70465152332753
+Divertimento/TempoTot : 3.900140955252349
+
+ Persona 39
+Tempo di gioco: 32
+Tempo di attesa: 1
+Tempo totale: 33
+Divertimento: 249.79721439483933
+Divertimento/TempoTot : 7.569612557419374
+
+ Persona 40
+Tempo di gioco: 34
+Tempo di attesa: 0
+Tempo totale: 34
+Divertimento: 208.1152493524121
+Divertimento/TempoTot : 6.121036745659179
+
+ Persona 41
+Tempo di gioco: 34
+Tempo di attesa: 0
+Tempo totale: 34
+Divertimento: 269.7160636565637
+Divertimento/TempoTot : 7.932825401663638
+
+ Persona 42
+Tempo di gioco: 34
+Tempo di attesa: 0
+Tempo totale: 34
+Divertimento: 157.51413953466601
+Divertimento/TempoTot : 4.632768809843118
+
+ Persona 43
+Tempo di gioco: 34
+Tempo di attesa: 0
+Tempo totale: 34
+Divertimento: 168.7100291690974
+Divertimento/TempoTot : 4.962059681444041
+
+ Persona 44
+Tempo di gioco: 35
+Tempo di attesa: 0
+Tempo totale: 35
+Divertimento: 198.14015822333178
+Divertimento/TempoTot : 5.661147377809479
+
+ Persona 45
+Tempo di gioco: 35
+Tempo di attesa: 0
+Tempo totale: 35
+Divertimento: 115.2545646463735
+Divertimento/TempoTot : 3.292987561324957
+
+ Persona 46
+Tempo di gioco: 34
+Tempo di attesa: 1
+Tempo totale: 35
+Divertimento: 248.41142856621192
+Divertimento/TempoTot : 7.097469387606055
+
+ Persona 47
+Tempo di gioco: 35
+Tempo di attesa: 0
+Tempo totale: 35
+Divertimento: 248.92591238575224
+Divertimento/TempoTot : 7.1121689253072065
+
+ Persona 48
+Tempo di gioco: 35
+Tempo di attesa: 0
+Tempo totale: 35
+Divertimento: 271.6393930949039
+Divertimento/TempoTot : 7.761125516997254
+
+ Persona 49
+Tempo di gioco: 35
+Tempo di attesa: 1
+Tempo totale: 36
+Divertimento: 248.70588590261343
+Divertimento/TempoTot : 6.908496830628151
+
+ Persona 50
+Tempo di gioco: 36
+Tempo di attesa: 0
+Tempo totale: 36
+Divertimento: 178.47693624103064
+Divertimento/TempoTot : 4.957692673361962
+
+ Persona 51
+Tempo di gioco: 36
+Tempo di attesa: 0
+Tempo totale: 36
+Divertimento: 211.09947165036738
+Divertimento/TempoTot : 5.863874212510205
+
+ Persona 52
+Tempo di gioco: 37
+Tempo di attesa: 0
+Tempo totale: 37
+Divertimento: 248.7660284002148
+Divertimento/TempoTot : 6.723406172978779
+
+ Persona 53
+Tempo di gioco: 37
+Tempo di attesa: 0
+Tempo totale: 37
+Divertimento: 233.33524402583004
+Divertimento/TempoTot : 6.306357946644055
+
+ Persona 54
+Tempo di gioco: 38
+Tempo di attesa: 0
+Tempo totale: 38
+Divertimento: 231.762648338319
+Divertimento/TempoTot : 6.099017061534711
+
+ Persona 55
+Tempo di gioco: 39
+Tempo di attesa: 0
+Tempo totale: 39
+Divertimento: 259.56267906376337
+Divertimento/TempoTot : 6.655453309327266
+
+ Persona 56
+Tempo di gioco: 39
+Tempo di attesa: 0
+Tempo totale: 39
+Divertimento: 245.62629947709726
+Divertimento/TempoTot : 6.298110243002494
+
+ Persona 57
+Tempo di gioco: 39
+Tempo di attesa: 0
+Tempo totale: 39
+Divertimento: 264.1116836685137
+Divertimento/TempoTot : 6.772094453038813
+
+ Persona 58
+Tempo di gioco: 39
+Tempo di attesa: 1
+Tempo totale: 40
+Divertimento: 275.11275608966287
+Divertimento/TempoTot : 6.877818902241572
+
+ Persona 59
+Tempo di gioco: 40
+Tempo di attesa: 0
+Tempo totale: 40
+Divertimento: 235.3040796042266
+Divertimento/TempoTot : 5.882601990105664
+
+ Persona 60
+Tempo di gioco: 41
+Tempo di attesa: 0
+Tempo totale: 41
+Divertimento: 213.7250679280668
+Divertimento/TempoTot : 5.212806534830897
+
+ Persona 61
+Tempo di gioco: 41
+Tempo di attesa: 0
+Tempo totale: 41
+Divertimento: 179.66328221616612
+Divertimento/TempoTot : 4.382031273565027
+
+ Persona 62
+Tempo di gioco: 42
+Tempo di attesa: 0
+Tempo totale: 42
+Divertimento: 262.4327129995448
+Divertimento/TempoTot : 6.24839792856059
+
+ Persona 63
+Tempo di gioco: 42
+Tempo di attesa: 0
+Tempo totale: 42
+Divertimento: 311.22561914276844
+Divertimento/TempoTot : 7.410133789113535
+
+ Persona 64
+Tempo di gioco: 43
+Tempo di attesa: 0
+Tempo totale: 43
+Divertimento: 217.72624115255485
+Divertimento/TempoTot : 5.063400957036159
+
+ Persona 65
+Tempo di gioco: 43
+Tempo di attesa: 0
+Tempo totale: 43
+Divertimento: 197.88693839594097
+Divertimento/TempoTot : 4.602021823161418
+
+ Persona 66
+Tempo di gioco: 44
+Tempo di attesa: 0
+Tempo totale: 44
+Divertimento: 316.0140108667742
+Divertimento/TempoTot : 7.182136610608504
+
+ Persona 67
+Tempo di gioco: 44
+Tempo di attesa: 0
+Tempo totale: 44
+Divertimento: 354.99083725613747
+Divertimento/TempoTot : 8.067973574003124
+
+ Persona 68
+Tempo di gioco: 44
+Tempo di attesa: 0
+Tempo totale: 44
+Divertimento: 251.58131378505465
+Divertimento/TempoTot : 5.717757131478515
+
+ Persona 69
+Tempo di gioco: 43
+Tempo di attesa: 1
+Tempo totale: 44
+Divertimento: 338.62463697493916
+Divertimento/TempoTot : 7.696014476703163
+
+ Persona 70
+Tempo di gioco: 45
+Tempo di attesa: 0
+Tempo totale: 45
+Divertimento: 232.341526847698
+Divertimento/TempoTot : 5.1631450410599555
+
+ Persona 71
+Tempo di gioco: 45
+Tempo di attesa: 0
+Tempo totale: 45
+Divertimento: 203.70661787334785
+Divertimento/TempoTot : 4.526813730518841
+
+ Persona 72
+Tempo di gioco: 45
+Tempo di attesa: 0
+Tempo totale: 45
+Divertimento: 342.09353720992704
+Divertimento/TempoTot : 7.602078604665045
+
+ Persona 73
+Tempo di gioco: 45
+Tempo di attesa: 0
+Tempo totale: 45
+Divertimento: 252.6910963550034
+Divertimento/TempoTot : 5.615357696777854
+
+ Persona 74
+Tempo di gioco: 47
+Tempo di attesa: 0
+Tempo totale: 47
+Divertimento: 220.49706333632162
+Divertimento/TempoTot : 4.691426879496205
+
+ Persona 75
+Tempo di gioco: 47
+Tempo di attesa: 0
+Tempo totale: 47
+Divertimento: 253.32623090501727
+Divertimento/TempoTot : 5.389919806489729
+
+ Persona 76
+Tempo di gioco: 47
+Tempo di attesa: 0
+Tempo totale: 47
+Divertimento: 295.77251831724107
+Divertimento/TempoTot : 6.29303230462215
+
+ Persona 77
+Tempo di gioco: 47
+Tempo di attesa: 0
+Tempo totale: 47
+Divertimento: 414.6736845686565
+Divertimento/TempoTot : 8.822844352524607
+
+ Persona 78
+Tempo di gioco: 48
+Tempo di attesa: 0
+Tempo totale: 48
+Divertimento: 275.47897008575546
+Divertimento/TempoTot : 5.739145210119905
+
+ Persona 79
+Tempo di gioco: 47
+Tempo di attesa: 1
+Tempo totale: 48
+Divertimento: 328.3798212347131
+Divertimento/TempoTot : 6.84124627572319
+
+ Persona 80
+Tempo di gioco: 48
+Tempo di attesa: 0
+Tempo totale: 48
+Divertimento: 314.8401076495211
+Divertimento/TempoTot : 6.559168909365023
+
+ Persona 81
+Tempo di gioco: 48
+Tempo di attesa: 0
+Tempo totale: 48
+Divertimento: 211.26777575885833
+Divertimento/TempoTot : 4.401411994976216
+
+ Persona 82
+Tempo di gioco: 47
+Tempo di attesa: 1
+Tempo totale: 48
+Divertimento: 297.9692385619967
+Divertimento/TempoTot : 6.207692470041597
+
+ Persona 83
+Tempo di gioco: 51
+Tempo di attesa: 0
+Tempo totale: 51
+Divertimento: 327.049678143246
+Divertimento/TempoTot : 6.412738787122471
+
+ Persona 84
+Tempo di gioco: 51
+Tempo di attesa: 0
+Tempo totale: 51
+Divertimento: 394.0331487156945
+Divertimento/TempoTot : 7.72614017089597
+
+ Persona 85
+Tempo di gioco: 51
+Tempo di attesa: 0
+Tempo totale: 51
+Divertimento: 323.2360937565875
+Divertimento/TempoTot : 6.3379626226781856
+
+ Persona 86
+Tempo di gioco: 52
+Tempo di attesa: 0
+Tempo totale: 52
+Divertimento: 267.6216538312456
+Divertimento/TempoTot : 5.146570265985493
+
+ Persona 87
+Tempo di gioco: 53
+Tempo di attesa: 0
+Tempo totale: 53
+Divertimento: 386.1833328835517
+Divertimento/TempoTot : 7.286477978934938
+
+ Persona 88
+Tempo di gioco: 52
+Tempo di attesa: 1
+Tempo totale: 53
+Divertimento: 251.69534694673845
+Divertimento/TempoTot : 4.74896881031582
+
+ Persona 89
+Tempo di gioco: 54
+Tempo di attesa: 0
+Tempo totale: 54
+Divertimento: 438.0440191346198
+Divertimento/TempoTot : 8.111926280270737
+
+ Persona 90
+Tempo di gioco: 57
+Tempo di attesa: 0
+Tempo totale: 57
+Divertimento: 390.3320930599974
+Divertimento/TempoTot : 6.847931457192937
+
+ Persona 91
+Tempo di gioco: 57
+Tempo di attesa: 0
+Tempo totale: 57
+Divertimento: 445.2024191114182
+Divertimento/TempoTot : 7.81056875634067
+
+ Persona 92
+Tempo di gioco: 61
+Tempo di attesa: 0
+Tempo totale: 61
+Divertimento: 237.66698532043594
+Divertimento/TempoTot : 3.8961800872202614
+
+ Persona 93
+Tempo di gioco: 63
+Tempo di attesa: 0
+Tempo totale: 63
+Divertimento: 327.27674537773845
+Divertimento/TempoTot : 5.194868974249816
+
+ Persona 94
+Tempo di gioco: 66
+Tempo di attesa: 0
+Tempo totale: 66
+Divertimento: 381.9025930031276
+Divertimento/TempoTot : 5.7864029242898125
+
+ Persona 95
+Tempo di gioco: 66
+Tempo di attesa: 0
+Tempo totale: 66
+Divertimento: 526.2226589436619
+Divertimento/TempoTot : 7.973070590055484
+
+ Persona 96
+Tempo di gioco: 66
+Tempo di attesa: 1
+Tempo totale: 67
+Divertimento: 359.1694115873865
+Divertimento/TempoTot : 5.360737486378903
+
+ Persona 97
+Tempo di gioco: 70
+Tempo di attesa: 0
+Tempo totale: 70
+Divertimento: 290.8089443564317
+Divertimento/TempoTot : 4.154413490806167
+
+ Persona 98
+Tempo di gioco: 71
+Tempo di attesa: 0
+Tempo totale: 71
+Divertimento: 456.26079327797646
+Divertimento/TempoTot : 6.426208356027837
+
+ Persona 99
+Tempo di gioco: 72
+Tempo di attesa: 0
+Tempo totale: 72
+Divertimento: 308.7047504921509
+Divertimento/TempoTot : 4.287565979057651
+
+ Persona 100
+Tempo di gioco: 83
+Tempo di attesa: 0
+Tempo totale: 83
+Divertimento: 411.9830216366207
+Divertimento/TempoTot : 4.963650863091816
